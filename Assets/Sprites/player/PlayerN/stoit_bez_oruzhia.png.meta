@@ -1,0 +1,3455 @@
+fileFormatVersion: 2
+guid: f728f7f8c3918684c8b999d34794cdb1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stoit_bez_oruzhia_0
+    21300002: stoit_bez_oruzhia_1
+    21300004: stoit_bez_oruzhia_2
+    21300006: stoit_bez_oruzhia_3
+    21300008: stoit_bez_oruzhia_4
+    21300010: stoit_bez_oruzhia_5
+    21300012: stoit_bez_oruzhia_6
+    21300014: stoit_bez_oruzhia_7
+    21300016: stoit_bez_oruzhia_8
+    21300018: stoit_bez_oruzhia_9
+    21300020: stoit_bez_oruzhia_10
+    21300022: stoit_bez_oruzhia_11
+    21300024: stoit_bez_oruzhia_12
+    21300026: stoit_bez_oruzhia_13
+    21300028: stoit_bez_oruzhia_14
+    21300030: stoit_bez_oruzhia_15
+    21300032: stoit_bez_oruzhia_16
+    21300034: stoit_bez_oruzhia_17
+    21300036: stoit_bez_oruzhia_18
+    21300038: stoit_bez_oruzhia_19
+    21300040: stoit_bez_oruzhia_20
+    21300042: stoit_bez_oruzhia_21
+    21300044: stoit_bez_oruzhia_22
+    21300046: stoit_bez_oruzhia_23
+    21300048: stoit_bez_oruzhia_24
+    21300050: stoit_bez_oruzhia_25
+    21300052: stoit_bez_oruzhia_26
+    21300054: stoit_bez_oruzhia_27
+    21300056: stoit_bez_oruzhia_28
+    21300058: stoit_bez_oruzhia_29
+    21300060: stoit_bez_oruzhia_30
+    21300062: stoit_bez_oruzhia_31
+    21300064: stoit_bez_oruzhia_32
+    21300066: stoit_bez_oruzhia_33
+    21300068: stoit_bez_oruzhia_34
+    21300070: stoit_bez_oruzhia_35
+    21300072: stoit_bez_oruzhia_36
+    21300074: stoit_bez_oruzhia_37
+    21300076: stoit_bez_oruzhia_38
+    21300078: stoit_bez_oruzhia_39
+    21300080: stoit_bez_oruzhia_40
+    21300082: stoit_bez_oruzhia_41
+    21300084: stoit_bez_oruzhia_42
+    21300086: stoit_bez_oruzhia_43
+    21300088: stoit_bez_oruzhia_44
+    21300090: stoit_bez_oruzhia_45
+    21300092: stoit_bez_oruzhia_46
+    21300094: stoit_bez_oruzhia_47
+    21300096: stoit_bez_oruzhia_48
+    21300098: stoit_bez_oruzhia_49
+    21300100: stoit_bez_oruzhia_50
+    21300102: stoit_bez_oruzhia_51
+    21300104: stoit_bez_oruzhia_52
+    21300106: stoit_bez_oruzhia_53
+    21300108: stoit_bez_oruzhia_54
+    21300110: stoit_bez_oruzhia_55
+    21300112: stoit_bez_oruzhia_56
+    21300114: stoit_bez_oruzhia_57
+    21300116: stoit_bez_oruzhia_58
+    21300118: stoit_bez_oruzhia_59
+    21300120: stoit_bez_oruzhia_60
+    21300122: stoit_bez_oruzhia_61
+    21300124: stoit_bez_oruzhia_62
+    21300126: stoit_bez_oruzhia_63
+    21300128: stoit_bez_oruzhia_64
+    21300130: stoit_bez_oruzhia_65
+    21300132: stoit_bez_oruzhia_66
+    21300134: stoit_bez_oruzhia_67
+    21300136: stoit_bez_oruzhia_68
+    21300138: stoit_bez_oruzhia_69
+    21300140: stoit_bez_oruzhia_70
+    21300142: stoit_bez_oruzhia_71
+    21300144: stoit_bez_oruzhia_72
+    21300146: stoit_bez_oruzhia_73
+    21300148: stoit_bez_oruzhia_74
+    21300150: stoit_bez_oruzhia_75
+    21300152: stoit_bez_oruzhia_76
+    21300154: stoit_bez_oruzhia_77
+    21300156: stoit_bez_oruzhia_78
+    21300158: stoit_bez_oruzhia_79
+    21300160: stoit_bez_oruzhia_80
+    21300162: stoit_bez_oruzhia_81
+    21300164: stoit_bez_oruzhia_82
+    21300166: stoit_bez_oruzhia_83
+    21300168: stoit_bez_oruzhia_84
+    21300170: stoit_bez_oruzhia_85
+    21300172: stoit_bez_oruzhia_86
+    21300174: stoit_bez_oruzhia_87
+    21300176: stoit_bez_oruzhia_88
+    21300178: stoit_bez_oruzhia_89
+    21300180: stoit_bez_oruzhia_90
+    21300182: stoit_bez_oruzhia_91
+    21300184: stoit_bez_oruzhia_92
+    21300186: stoit_bez_oruzhia_93
+    21300188: stoit_bez_oruzhia_94
+    21300190: stoit_bez_oruzhia_95
+    21300192: stoit_bez_oruzhia_96
+    21300194: stoit_bez_oruzhia_97
+    21300196: stoit_bez_oruzhia_98
+    21300198: stoit_bez_oruzhia_99
+    21300200: stoit_bez_oruzhia_100
+    21300202: stoit_bez_oruzhia_101
+    21300204: stoit_bez_oruzhia_102
+    21300206: stoit_bez_oruzhia_103
+    21300208: stoit_bez_oruzhia_104
+    21300210: stoit_bez_oruzhia_105
+    21300212: stoit_bez_oruzhia_106
+    21300214: stoit_bez_oruzhia_107
+    21300216: stoit_bez_oruzhia_108
+    21300218: stoit_bez_oruzhia_109
+    21300220: stoit_bez_oruzhia_110
+    21300222: stoit_bez_oruzhia_111
+    21300224: stoit_bez_oruzhia_112
+    21300226: stoit_bez_oruzhia_113
+    21300228: stoit_bez_oruzhia_114
+    21300230: stoit_bez_oruzhia_115
+    21300232: stoit_bez_oruzhia_116
+    21300234: stoit_bez_oruzhia_117
+    21300236: stoit_bez_oruzhia_118
+    21300238: stoit_bez_oruzhia_119
+    21300240: stoit_bez_oruzhia_120
+    21300242: stoit_bez_oruzhia_121
+    21300244: stoit_bez_oruzhia_122
+    21300246: stoit_bez_oruzhia_123
+    21300248: stoit_bez_oruzhia_124
+    21300250: stoit_bez_oruzhia_125
+    21300252: stoit_bez_oruzhia_126
+    21300254: stoit_bez_oruzhia_127
+    21300256: stoit_bez_oruzhia_128
+    21300258: stoit_bez_oruzhia_129
+    21300260: stoit_bez_oruzhia_130
+    21300262: stoit_bez_oruzhia_131
+    21300264: stoit_bez_oruzhia_132
+    21300266: stoit_bez_oruzhia_133
+    21300268: stoit_bez_oruzhia_134
+    21300270: stoit_bez_oruzhia_135
+    21300272: stoit_bez_oruzhia_136
+    21300274: stoit_bez_oruzhia_137
+    21300276: stoit_bez_oruzhia_138
+    21300278: stoit_bez_oruzhia_139
+    21300280: stoit_bez_oruzhia_140
+    21300282: stoit_bez_oruzhia_141
+    21300284: stoit_bez_oruzhia_142
+    21300286: stoit_bez_oruzhia_143
+    21300288: stoit_bez_oruzhia_144
+    21300290: stoit_bez_oruzhia_145
+    21300292: stoit_bez_oruzhia_146
+    21300294: stoit_bez_oruzhia_147
+    21300296: stoit_bez_oruzhia_148
+    21300298: stoit_bez_oruzhia_149
+    21300300: stoit_bez_oruzhia_150
+    21300302: stoit_bez_oruzhia_151
+    21300304: stoit_bez_oruzhia_152
+    21300306: stoit_bez_oruzhia_153
+    21300308: stoit_bez_oruzhia_154
+    21300310: stoit_bez_oruzhia_155
+    21300312: stoit_bez_oruzhia_156
+    21300314: stoit_bez_oruzhia_157
+    21300316: stoit_bez_oruzhia_158
+    21300318: stoit_bez_oruzhia_159
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 696
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259746559940f7a4f8c6282004612ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0386ab99d032594899aa333e1c5f4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd5998f04a2c24f86d8edb2054b420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ff1a375f95b14f935c577bf693348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cddfb7f74d814498e0b048cb5f46a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4958b994a08f44cb9ecb3e6bc0bcd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67df1bf152b2f847beafb0d5ca742f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 696
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbdc62c5eb9f74592ba5bde0fdacf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 696
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208b5a659a46404388aee7c74f43591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 696
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd995729d56ee47bf6643dcab36796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 696
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd71e2ca0bb9d4b9c91f2496641f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_11
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 696
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430c042d7a3d7b4f844203e83d0407f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_12
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 696
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47707217ad5061f4cae595fe1374ab00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_13
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 696
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad30accb1e51a84e8aa791a67136bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_14
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 696
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9890d0e1acb4c84fbe8f37086019423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_15
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 696
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a813b1bcf8a46a4680d985682e276bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_16
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 696
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991340878e360a243a6da79362ec806e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_17
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 696
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162b38efec9dd347a693c9f8c9325ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_18
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 696
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5601bdb970df59f4dbb583b3f1dffcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_19
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 696
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3efbda47355b0740a008d7f74a4a83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae268d649c39c42a437382332fc352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 599
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c930528197f142ab7d9ea6cb23424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 599
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16bd58b3aa87841bd31a14c5b560cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 599
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646bb5f767433dd45a638d7c5be0e8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 599
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63926fb4d21444d830f0f81944e4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 599
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9405315eac39a4d99882c1efdadb08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 599
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970319c9a9e4ea47bcb1b16bfabcb3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 599
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ca7a171b9aa644bb598a87560643b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_28
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 599
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1344c14acd6d3bf4db97002f716f7725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 599
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcca9ef082ff446b30cb514f7a3d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_30
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 599
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9badfa6905a95438a180914855c930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 599
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789f72a8ad8791409c083abb61ff839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_32
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 599
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6657349ef310d945bcdfca189d4a280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_33
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 598
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b70c072445358a42a02f1f87327adb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_34
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 598
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec260ab3f935dfe419f15a014a61a446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_35
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 598
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21bd37d21cc5b4bbf2d2f80942ba10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_36
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 599
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556dbc80e2ecbae4181f798e4d67fe7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_37
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 599
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155a5d69505da24496d7ca7c5a795dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_38
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 599
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d5fb40cfe97c4cbb97f22b47d2c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_39
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 599
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b649b3e6d0314eb46c9506ab31187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 501
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8fea57dbab1d74285c37867a06210e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 502
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4eee160aafe342bb2dd83843193e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 501
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87be67f120fd6d468af6167e0ca1b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 502
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f32dc4b4738d1478edf240268b1775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 502
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b94844c942cfc499a114ea20d05145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 502
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2bb06fb82b35d45a98adf349442974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_46
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 502
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d64becbb4ad04082a5aff6b809e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_47
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 502
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a1a8610025c748ae341127bcbb731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_48
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 501
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe4858d0b3490418be7ee7c7356d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_49
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 502
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35388838d36010b42b6b2e103db25620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_50
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 502
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4aa34ae3c884418350935838c09a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_51
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 501
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b2c249f328d246bf5e7f06a236d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_52
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 502
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ec0e9583d6484bb03bad178d26a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_53
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 502
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215318c2999248740a0e6c64c4954df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_54
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 502
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966015aaec53e3f44aa3fda5b7f24a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_55
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 502
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ded61d73393d4698e74ff149401c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_56
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 502
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32cb0d8460a6a54a80f1e15f773cfbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_57
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 501
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0f0f2f4da09d4f850b5165b98d523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_58
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 502
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8da564b1909c44bad2af6a3fd41eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_59
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 502
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0ccfef2fbef34faa2b77a6e11a357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 405
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6710c6eff676b47b788275f13a467d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 405
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b210ab7819371a438219c58f9f3d769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 405
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779be13daf8cc08408f6c3b76bb2ffd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 405
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3f737436e1eb4da34f272df62b9ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_64
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 405
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4719426cc5ce378449c1cf02929401e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_65
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 405
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71442ec0ba5d8024894b95fda498e6bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 405
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4e30e8e0672047a936c72d782a803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_67
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 405
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a361eae7b2bf46b2cfdcb226bf5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_68
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 405
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e74d5b03a2c824f95495c7acf70ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_69
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 405
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032ea2a59b938d40aa7e3681e8fc35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_70
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 405
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447320b4502ddd4b903a0d38e61a13c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_71
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 405
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90232c47651960a4b8344302a3e4f293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_72
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 405
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36386d819bc20564f8b0666744b786e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_73
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 405
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe5deaa7e44ef4ea30e23b187960ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_74
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 405
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f755699628f5847940a3a06b305160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_75
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 405
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304bff8f47099b4f97cec169ca4b4f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_76
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 405
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd92f96dbda0b48b80a7e25a9d5cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_77
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 405
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae19a85fb29d5847aa82f3c815e67f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_78
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 405
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31daedba2977a5940b36712db6c38323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_79
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 405
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6292bb7efbfc43acc8e101cfeb99e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 309
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08481de51da42cc41a22034b681deecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f426e3c73e2694499faba3f58c8620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 309
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41fadc84ef08943bc72f5f9eead4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_83
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 308
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83cdb71ffe737742a33759dad500dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_84
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 308
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94080c626c3fa4baafb16e9d6b9c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_85
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 308
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f019eb88e2a133428ea83fc7353ea3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 308
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078a77c972b4984bacd26d5728a7a6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 309
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc004537e3a7e4a93d9165c209f227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_88
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0187370363ffe7a4fa35d6a67c95c361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 309
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63d8e3f3f7f2646a30a7f10079d5e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_90
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 309
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c005af4d2d2341922189880c6d80f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_91
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 309
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51205a035002544b644b09848ee312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_92
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05bdd56212fe8140b95134934bdee28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_93
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e4af117d3f0842a94c2a01dfa4b7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_94
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e7e0fec9e5574f974d58b6aab9e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_95
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2042a4d549cb4a88b559a173b3314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_96
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 309
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187e3779284e54647b36169f0120c945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_97
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 309
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f678363ec40349a5d1be3a7a11b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_98
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 309
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110367a72bd2aa42af802e725869af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_99
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 309
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47df19f2764b9424a962b81085b8074f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c8b2c3e918b14589ea34ccb0846e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 211
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03373c7440329ab4bb56fbf0733bece9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 211
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494c8ba0652cc44ab2fb4fd91aa85f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c58e4cbe34a5754f856e56264c10802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_104
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 212
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3127815271b3ae4596027de6dd3fedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_105
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 212
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4d31d26ab88146b88cf3c527972d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_106
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 212
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1400580c02cc4e82b0cc9125d7da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_107
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 212
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c04edb03841b0246ae794410aeca693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_108
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 211
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332dfdbc6c180e24b9927fb7f02e353a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_109
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 211
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39760c3b3287f9e4abd0ffb9367beb2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_110
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 211
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343ec18d7532384197ac7d7f4a734da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_111
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 211
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a36eec2eba2f94458dcc259b63224a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_112
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 211
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3bb763e052c74f8a90fdb49fe6cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_113
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 211
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab2d4d05a473e479205034488df47e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_114
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 211
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137299a59fac9034e8d8dc44d00e154d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_115
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 211
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a07f2cafcb2784d82bb8c1634fa9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_116
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 211
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f693bd534aa4d57438390cae749e7a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_117
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 211
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633cd20dbcd7164a985a3ad200a2d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_118
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 211
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6aaca8e7a0624d80a42d25bee94a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_119
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 211
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f16adb3bb169144e95871ac66b4b14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa49d1826f1a9145be1476679860e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_121
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87ff19767178d4990179d621a11c44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 113
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce26edbed7b36a40b030a0c143cc306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb70e3ee6fae6e41a504dbc23bc54f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1596f7224414c3458e71533a57cf621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_125
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 113
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32849e7b9f30fcc4a85dfc2638e34b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_126
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 113
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e8c0a3be463f4e8eb2621bd6fd026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_127
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 113
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b0bbb55378344ca6014143e7e35bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_128
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 113
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72a6a57cb24684ab9770de51ab1905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_129
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a20094ef49334099d5c8f7af72dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_130
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8c09617839c1f42a944f10425296e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_131
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed60817e0e243e42b7b92c2bd761781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_132
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 113
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73f58c92299ba4d8b7ce483cf30ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_133
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 113
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9302091b934441803048056963114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_134
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 113
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628a1d41e2a719489d21c135a68e3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_135
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 113
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6ce305f449804a9e0158b4d306f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_136
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 113
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565b3deb28f1a4640bc9deadcb1cbb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_137
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 113
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c75410cceb19449b3b60b49862216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_138
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 113
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f593ad0684d040b18a1b891617f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_139
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 113
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af7e3c8bf1607945b18313ed57501a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388d713f1b968b4ba014f6be2c3167a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d521dde76d2c84abb429da04baa30d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_142
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 16
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633394843ffa676498903a8f886ef63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 16
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e6831ff97d8448bcbbb037cddb9e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_144
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5725efeb0a7013747b1c854ddc2d7866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_145
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 16
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa1d5bba441e44ea0952506bdc625b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_146
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 16
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c47629f875cda4d8a74de2dfb7d51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_147
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 16
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f658868a1b7f4794db4d299b6e7e2363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_148
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 16
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35bcaa9acde414cb659788ff6a7265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_149
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 16
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce2260b0aba3744b81897e3b5a3afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_150
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 16
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7a4a1e6447a5408258c5362c26867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_151
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 16
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248585d76afcc748a2675021c0ea9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_152
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 16
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51b98fda0f8ec41a3e197b63b51cca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_153
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 16
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46531ce58f039064ab7cd67b9ecb8fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_154
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 16
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39230175016da1543827d58132b55e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_155
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 16
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6a19e94666e945a58f1d75b4cf66f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_156
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 16
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d1564f2a87b848ab7a680b486835e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_157
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 16
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589c07923635a540a2f1d756ecbac81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_158
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 16
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdf46244317bb4d94c635f5b18a2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoit_bez_oruzhia_159
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 16
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e48cfb6117e247a4ce0aa2041b60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 104d1f1fe7e8c5e4696ee3ade2d39ed8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
